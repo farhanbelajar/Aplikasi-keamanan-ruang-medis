@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "656477923079",
+    "firebase_url": "https://iothome-927b1-default-rtdb.firebaseio.com",
+    "project_id": "iothome-927b1",
+    "storage_bucket": "iothome-927b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656477923079:android:d2a1e6ad0efd1c723707a2",
+        "android_client_info": {
+          "package_name": "com.example.farhan_skripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6sihcX1nPwbEVs1SdRXvpeFp8M0pvOB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656477923079:android:cb3dd4daa633edb23707a2",
+        "android_client_info": {
+          "package_name": "com.example.farhan_skripsi_rm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6sihcX1nPwbEVs1SdRXvpeFp8M0pvOB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656477923079:android:c4a39f1e9bc7d8a33707a2",
+        "android_client_info": {
+          "package_name": "com.example.skripsi_hangans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6sihcX1nPwbEVs1SdRXvpeFp8M0pvOB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
