@@ -39,4 +39,4 @@ Sistem keamanan ini terdiri dari:
 
 Dengan sistem ini, keamanan ruang medis dapat ditingkatkan secara signifikan melalui proses verifikasi yang lebih ketat, cepat, dan efisien.
 
->>>>>>> 7ebb55b5558d9d1560d5790dc49b9c33a395b857
+
