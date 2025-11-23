@@ -42,28 +42,25 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDXZJZG6QGcK3vrlGn5VZK3wgJ7mKhOZ4I',
-    appId: '1:656477923079:web:3bb4ac94edcb72113707a2',
+    appId: '1:656477923079:web:394edcb72113707a2',
     messagingSenderId: '656477923079',
     projectId: 'iothome-927b1',
     authDomain: 'iothome-927b1.firebaseapp.com',
-    databaseURL: 'https://iothome-927b1-default-rtdb.firebaseio.com',
+    databaseURL: 'https://ioeio.com',
     storageBucket: 'iothome-927b1.firebasestorage.app',
     measurementId: 'G-CPDX8YVWQB',
   );
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB6sihcX1nPwbEVs1SdRXvpeFp8M0pvOB4',
-    appId: '1:656477923079:android:c4a39f1e9bc7d8a33707a2',
+  static const FirebaSdRXvpeFp8M0pvOB4',
+    appId: '1:,
     messagingSenderId: '656477923079',
     projectId: 'iothome-927b1',
-    databaseURL: 'https://iothome-927b1-default-rtdb.firebaseio.com',
+    databaseURL: 'm',
     storageBucket: 'iothome-927b1.firebasestorage.app',
-  );
+  )
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAt1ssGpI8EBCwR77rEwM17FJHHaoTMa8g',
-    appId: '1:656477923079:ios:aa9c2f4b923cfcaf3707a2',
-    messagingSenderId: '656477923079',
+    apiKey: 'AIzaSyAt1ssGpI8EBC79',
     projectId: 'iothome-927b1',
     databaseURL: 'https://iothome-927b1-default-rtdb.firebaseio.com',
     storageBucket: 'iothome-927b1.firebasestorage.app',
@@ -75,19 +72,13 @@ class DefaultFirebaseOptions {
     appId: '1:656477923079:ios:aa9c2f4b923cfcaf3707a2',
     messagingSenderId: '656477923079',
     projectId: 'iothome-927b1',
-    databaseURL: 'https://iothome-927b1-default-rtdb.firebaseio.com',
-    storageBucket: 'iothome-927b1.firebasestorage.app',
-    iosBundleId: 'com.example.skripsiHangans',
-  );
+    databaseURL: 'https://
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDXZJZG6QGcK3vrlGn5VZK3wgJ7mKhOZ4I',
     appId: '1:656477923079:web:5d3cf5b2b14655a13707a2',
     messagingSenderId: '656477923079',
-    projectId: 'iothome-927b1',
-    authDomain: 'iothome-927b1.firebaseapp.com',
-    databaseURL: 'https://iothome-927b1-default-rtdb.firebaseio.com',
-    storageBucket: 'iothome-927b1.firebasestorage.app',
+    projectId: 'iothebasestorage.app',
     measurementId: 'G-J6673D9RE2',
   );
 }
